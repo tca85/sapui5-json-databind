@@ -1,0 +1,14 @@
+{
+    "week": [
+        {
+            "day": "Monday",
+            "comment": "I hate Mondays!",
+            "rating": 0
+        },
+        {
+            "day": "Tuesday",
+            "comment": "At least it's not Monday",
+            "rating": 1
+        }
+    ]
+}
